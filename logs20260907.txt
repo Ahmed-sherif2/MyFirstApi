@@ -1,0 +1,9 @@
+2026-09-07 21:05:32.999 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-07 21:05:33.021 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-07 21:05:33.021 +03:00 [INF] Hosting environment: Development
+2026-09-07 21:05:33.021 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-07 21:05:35.149 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/manual-json - null null
+2026-09-07 21:05:35.177 +03:00 [INF] Executing endpoint 'HTTP: GET /manual-json'
+2026-09-07 21:05:35.188 +03:00 [INF] Write content with HTTP Response ContentType of application/json
+2026-09-07 21:05:35.192 +03:00 [INF] Executed endpoint 'HTTP: GET /manual-json'
+2026-09-07 21:05:35.194 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/manual-json - 200 33 application/json 46.0254ms

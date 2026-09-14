@@ -1,0 +1,26 @@
+2026-09-09 05:42:07.214 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-09 05:42:07.260 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-09 05:42:07.261 +03:00 [INF] Hosting environment: Development
+2026-09-09 05:42:07.261 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-09 05:42:09.052 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5207/blog - application/json 53
+2026-09-09 05:42:09.112 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5207/blog - 401 null null 63.4089ms
+2026-09-09 05:42:14.721 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5207/blog - application/json 53
+2026-09-09 05:42:14.726 +03:00 [INF] Executing endpoint 'HTTP: POST /blog'
+2026-09-09 05:42:14.755 +03:00 [INF] Setting HTTP status code 201.
+2026-09-09 05:42:14.756 +03:00 [INF] Writing value of type 'Blog' as Json.
+2026-09-09 05:42:14.766 +03:00 [INF] Executed endpoint 'HTTP: POST /blog'
+2026-09-09 05:42:14.766 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5207/blog - 201 null application/json; charset=utf-8 44.9812ms
+2026-09-09 05:42:18.078 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5207/blog - application/json 53
+2026-09-09 05:42:18.080 +03:00 [INF] Executing endpoint 'HTTP: POST /blog'
+2026-09-09 05:42:18.081 +03:00 [INF] Setting HTTP status code 201.
+2026-09-09 05:42:18.081 +03:00 [INF] Writing value of type 'Blog' as Json.
+2026-09-09 05:42:18.081 +03:00 [INF] Executed endpoint 'HTTP: POST /blog'
+2026-09-09 05:42:18.081 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5207/blog - 201 null application/json; charset=utf-8 3.3856ms
+2026-09-09 05:42:22.024 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5207/blog - application/json 53
+2026-09-09 05:42:22.025 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5207/blog - 401 null null 1.2243ms
+2026-09-09 05:42:26.535 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/ - null null
+2026-09-09 05:42:26.536 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2026-09-09 05:42:26.536 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2026-09-09 05:42:26.536 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/ - 200 null text/plain; charset=utf-8 0.7547ms
+2026-09-09 05:42:45.599 +03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5207/blogs/1 - null null
+2026-09-09 05:42:45.601 +03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5207/blogs/1 - 401 null null 1.2071ms

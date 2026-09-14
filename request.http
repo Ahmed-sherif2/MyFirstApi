@@ -1,0 +1,39 @@
+GET  http://localhost:5207
+
+###
+
+POST http://localhost:5207/blog
+Content-Type: application/json
+PASSWORD: badpasswords
+
+{
+"title" : "third blog",
+"name" : "the third"
+
+}
+###
+GET http://localhost:5207/blogs
+
+
+###
+
+DELETE http://localhost:5207/blogs/1
+
+###
+
+Get http://localhost:5207/manual-json
+
+###
+
+Get http://localhost:5207/custom-json
+
+###
+
+Get http://localhost:5207/json
+###
+
+Get http://localhost:5207/auto
+
+###
+
+Get http://localhost:5207/xml

@@ -1,0 +1,73 @@
+2026-09-04 15:47:15.226 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-04 15:47:15.270 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-04 15:47:15.270 +03:00 [INF] Hosting environment: Development
+2026-09-04 15:47:15.270 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-04 15:48:51.427 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/manual-json - null null
+2026-09-04 15:48:51.470 +03:00 [INF] Executing endpoint 'HTTP: GET /manual-json'
+2026-09-04 15:48:51.489 +03:00 [INF] Write content with HTTP Response ContentType of application/json
+2026-09-04 15:48:51.495 +03:00 [INF] Executed endpoint 'HTTP: GET /manual-json'
+2026-09-04 15:48:51.498 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/manual-json - 200 33 application/json 73.1341ms
+2026-09-04 15:48:54.925 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/custom-json - null null
+2026-09-04 15:48:54.927 +03:00 [INF] Executing endpoint 'HTTP: GET /custom-json'
+2026-09-04 15:48:54.930 +03:00 [INF] Write content with HTTP Response ContentType of application/json
+2026-09-04 15:48:54.930 +03:00 [INF] Executed endpoint 'HTTP: GET /custom-json'
+2026-09-04 15:48:54.930 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/custom-json - 200 35 application/json 5.1227ms
+2026-09-04 15:48:58.319 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/json - null null
+2026-09-04 15:48:58.320 +03:00 [INF] Executing endpoint 'HTTP: GET /json'
+2026-09-04 15:48:58.346 +03:00 [INF] Writing value of type 'Person' as Json.
+2026-09-04 15:48:58.353 +03:00 [INF] Executed endpoint 'HTTP: GET /json'
+2026-09-04 15:48:58.353 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/json - 200 null application/json; charset=utf-8 34.0125ms
+2026-09-04 15:49:04.230 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/xml - null null
+2026-09-04 15:49:04.230 +03:00 [INF] Executing endpoint 'HTTP: GET /xml'
+2026-09-04 15:49:04.335 +03:00 [INF] Executed endpoint 'HTTP: GET /xml'
+2026-09-04 15:49:04.335 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/xml - 200 0 null 104.8175ms
+2026-09-04 15:51:13.575 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/xml - null null
+2026-09-04 15:51:13.576 +03:00 [INF] Executing endpoint 'HTTP: GET /xml'
+2026-09-04 15:51:13.577 +03:00 [INF] Executed endpoint 'HTTP: GET /xml'
+2026-09-04 15:51:13.577 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/xml - 200 0 null 1.6436ms
+2026-09-04 15:51:33.968 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-04 15:51:34.001 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-04 15:51:34.002 +03:00 [INF] Hosting environment: Development
+2026-09-04 15:51:34.002 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-04 15:51:35.669 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/xml - null null
+2026-09-04 15:51:35.701 +03:00 [INF] Executing endpoint 'HTTP: GET /xml'
+2026-09-04 15:51:35.738 +03:00 [INF] Write content with HTTP Response ContentType of application/xml
+2026-09-04 15:51:35.741 +03:00 [INF] Executed endpoint 'HTTP: GET /xml'
+2026-09-04 15:51:35.742 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/xml - 200 214 application/xml 76.0767ms
+2026-09-04 15:58:50.767 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-04 15:58:50.808 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-04 15:58:50.809 +03:00 [INF] Hosting environment: Development
+2026-09-04 15:58:50.809 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-04 15:59:03.595 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/manual-json - null null
+2026-09-04 15:59:03.625 +03:00 [INF] Executing endpoint 'HTTP: GET /manual-json'
+2026-09-04 15:59:03.639 +03:00 [INF] Write content with HTTP Response ContentType of application/json
+2026-09-04 15:59:03.642 +03:00 [INF] Executed endpoint 'HTTP: GET /manual-json'
+2026-09-04 15:59:03.644 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/manual-json - 200 33 application/json 50.9558ms
+2026-09-04 15:59:09.347 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/custom-json - null null
+2026-09-04 15:59:09.368 +03:00 [INF] Executing endpoint 'HTTP: GET /custom-json'
+2026-09-04 15:59:09.371 +03:00 [INF] Write content with HTTP Response ContentType of application/json
+2026-09-04 15:59:09.372 +03:00 [INF] Executed endpoint 'HTTP: GET /custom-json'
+2026-09-04 15:59:09.373 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/custom-json - 200 35 application/json 25.7096ms
+2026-09-04 15:59:12.353 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/json - null null
+2026-09-04 15:59:12.354 +03:00 [INF] Executing endpoint 'HTTP: GET /json'
+2026-09-04 15:59:12.355 +03:00 [INF] Writing value of type 'Person' as Json.
+2026-09-04 15:59:12.359 +03:00 [INF] Executed endpoint 'HTTP: GET /json'
+2026-09-04 15:59:12.359 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/json - 200 null application/json; charset=utf-8 6.5085ms
+2026-09-04 15:59:17.829 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/xml - null null
+2026-09-04 15:59:17.829 +03:00 [INF] Executing endpoint 'HTTP: GET /xml'
+2026-09-04 15:59:17.857 +03:00 [INF] Write content with HTTP Response ContentType of application/xml
+2026-09-04 15:59:17.857 +03:00 [INF] Executed endpoint 'HTTP: GET /xml'
+2026-09-04 15:59:17.857 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/xml - 200 214 application/xml 28.8927ms
+2026-09-04 16:00:22.679 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-04 16:00:22.728 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-04 16:00:22.728 +03:00 [INF] Hosting environment: Development
+2026-09-04 16:00:22.728 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-04 16:00:36.621 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/auto - null null
+2026-09-04 16:00:36.655 +03:00 [INF] Executing endpoint 'HTTP: GET /auto'
+2026-09-04 16:00:36.669 +03:00 [INF] Executed endpoint 'HTTP: GET /auto'
+2026-09-04 16:00:36.670 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/auto - 200 null application/json; charset=utf-8 52.0679ms
+2026-09-04 16:00:42.655 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/json - null null
+2026-09-04 16:00:42.657 +03:00 [INF] Executing endpoint 'HTTP: GET /json'
+2026-09-04 16:00:42.658 +03:00 [INF] Writing value of type 'Person' as Json.
+2026-09-04 16:00:42.658 +03:00 [INF] Executed endpoint 'HTTP: GET /json'
+2026-09-04 16:00:42.658 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/json - 200 null application/json; charset=utf-8 3.5808ms

@@ -1,0 +1,43 @@
+2026-09-03 17:00:12.689 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-03 17:00:13.073 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-03 17:00:13.365 +03:00 [INF] Hosting environment: Development
+2026-09-03 17:00:13.527 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-03 17:09:20.103 +03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5207/blogs/1 - null null
+2026-09-03 17:09:20.123 +03:00 [INF] Executing endpoint 'HTTP: DELETE /blogs/{id}'
+2026-09-03 17:09:20.128 +03:00 [INF] Executed endpoint 'HTTP: DELETE /blogs/{id}'
+2026-09-03 17:09:20.133 +03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5207/blogs/1 - 200 0 null 31.1343ms
+2026-09-03 17:09:24.849 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5207/blog - application/json 53
+2026-09-03 17:09:24.852 +03:00 [INF] Executing endpoint 'HTTP: POST /blog'
+2026-09-03 17:09:24.866 +03:00 [INF] Setting HTTP status code 201.
+2026-09-03 17:09:24.867 +03:00 [INF] Writing value of type 'Blog' as Json.
+2026-09-03 17:09:24.876 +03:00 [INF] Executed endpoint 'HTTP: POST /blog'
+2026-09-03 17:09:24.876 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5207/blog - 201 null application/json; charset=utf-8 27.6593ms
+2026-09-03 17:09:29.661 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/ - null null
+2026-09-03 17:09:29.663 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2026-09-03 17:09:29.666 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2026-09-03 17:09:29.666 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/ - 200 null text/plain; charset=utf-8 5.2378ms
+2026-09-03 17:09:34.380 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/blogs - null null
+2026-09-03 17:09:34.383 +03:00 [INF] Executing endpoint 'HTTP: GET blogs/{id?}'
+2026-09-03 17:09:34.384 +03:00 [INF] Setting HTTP status code 200.
+2026-09-03 17:09:34.388 +03:00 [INF] Writing value of type 'List`1' as Json.
+2026-09-03 17:09:34.389 +03:00 [INF] Executed endpoint 'HTTP: GET blogs/{id?}'
+2026-09-03 17:09:34.390 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/blogs - 200 null application/json; charset=utf-8 9.192ms
+2026-09-03 17:09:38.660 +03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5207/blogs/1 - null null
+2026-09-03 17:09:38.661 +03:00 [INF] Executing endpoint 'HTTP: DELETE /blogs/{id}'
+2026-09-03 17:09:38.662 +03:00 [INF] Executed endpoint 'HTTP: DELETE /blogs/{id}'
+2026-09-03 17:09:38.663 +03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5207/blogs/1 - 200 0 null 3.2911ms
+2026-09-03 17:09:42.976 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5207/blogs - null null
+2026-09-03 17:09:42.977 +03:00 [INF] Executing endpoint 'HTTP: GET blogs/{id?}'
+2026-09-03 17:09:42.978 +03:00 [INF] Setting HTTP status code 200.
+2026-09-03 17:09:42.979 +03:00 [INF] Writing value of type 'List`1' as Json.
+2026-09-03 17:09:42.979 +03:00 [INF] Executed endpoint 'HTTP: GET blogs/{id?}'
+2026-09-03 17:09:42.980 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5207/blogs - 200 null application/json; charset=utf-8 3.5692ms
+2026-09-03 17:10:13.493 +03:00 [INF] Application is shutting down...
+2026-09-03 17:10:18.178 +03:00 [INF] Now listening on: http://localhost:5207
+2026-09-03 17:10:18.201 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-09-03 17:10:18.202 +03:00 [INF] Hosting environment: Development
+2026-09-03 17:10:18.203 +03:00 [INF] Content root path: C:\Users\ahmed\Downloads\MyFirstApi
+2026-09-03 17:10:22.107 +03:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:5207/blogs/1 - null null
+2026-09-03 17:10:22.124 +03:00 [INF] Executing endpoint 'HTTP: DELETE /blogs/{id}'
+2026-09-03 17:10:22.126 +03:00 [INF] Executed endpoint 'HTTP: DELETE /blogs/{id}'
+2026-09-03 17:10:22.129 +03:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:5207/blogs/1 - 200 0 null 23.1825ms
